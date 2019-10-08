@@ -5,7 +5,7 @@ Target
     Prepare for the next spring recruit.
     The engineer uttered a voice of 233.
 
-Dayly Routine
+Daily Routine
     
     Finished about 10 score everyday.
     For each problem
