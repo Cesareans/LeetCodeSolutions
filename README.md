@@ -5,3 +5,10 @@ Target
     Prepare for the next spring recruit.
     The engineer uttered a voice of 233.
 
+Dayly Routine
+    
+    Finished about 10 score everyday.
+    For each problem
+        Easy equals 1 score.
+        Medium equals 2 score
+        Hard equals 4 score
